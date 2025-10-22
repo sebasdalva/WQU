@@ -2,6 +2,6 @@
 print("Hello from VS Code on Mac")
 
 def test_function():
-    return "Original version"
+    return "Modified in Google Colab"
 
 print(test_function())
